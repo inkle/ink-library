@@ -14,11 +14,8 @@
    {TURNS_SINCE(-> top) == 0: -> DONE }  -> ret
 
 // This runs the tunnel and threads in any choices inside that tunnel. 
-
 // If the player doesn’t choose an option from inside that tunnel, this thread will die, and the last line is never hit. If they do choose an option from inside the tunnel, then when the tunnel finishes goes back to the given return point. 
-
 // The TURNS_SINCE check is almost unnecessary: it’s needed in case the tunnel contains no choices at all: the -> DONE ensures the thread stops safely, instead of continuing onto the return point. 
-
 // Here’s an example of this in action:
 
 == example ==
@@ -40,5 +37,4 @@
    -   (done) ->->
 
 // Of course, if you don’t think you need to thread a tunnel, you probably don’t. It can be useful because tunnels are portable - when they finish, they don’t need to know where to go back to, they just return - and threads allow the player to choose content from lots of different places in the source.
-
 // We use threaded tunnels for our conversations: each one is a little packet of interaction, but there are hundreds of them, separated, and with their own conditions. Writing as tunnels means we can write them without caring about where they came from, and also inject them into the story if we want to; and using threads means they can be written independently from each other. 

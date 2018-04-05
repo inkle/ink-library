@@ -9,6 +9,7 @@
 // And if you have things that can happen in the room - say, a bit of dialogue for when you stand in a certain place - you can put that in the main “hub” of the location and it’ll always be tested for.
 // Heaven’s Vault gets a bit more complicated than this - because we also handle conversation, which can happen anywhere, at any time, from a separate contextual system. But that’s for another post maybe. 
 
+
 LIST waypoints = PLATEAU_BELOW_TOWER, NEAR_TOWER_BASE //, etc
 
 === plateau_below_tower ===
@@ -17,6 +18,7 @@ LIST waypoints = PLATEAU_BELOW_TOWER, NEAR_TOWER_BASE //, etc
     <- half_buried_skull
     
 = distant_tower
+    // This choice syntax is Heaven's Vault specific, and is how we specify choices where you interact with props in the world.
     *   (carved) [Tower -- "Is it really a tower?"]
         El:     It Can't have been built.
         Six:    I believe you can call it what you wish, Mistress.
@@ -27,8 +29,11 @@ LIST waypoints = PLATEAU_BELOW_TOWER, NEAR_TOWER_BASE //, etc
         
     *   [TowerBase >> Approach]
         -> start_walk_to(NEAR_TOWER_BASE) ->
+        
+        // The '>>>' syntax is Heaven's Vault specific, and is how we write narrated elements.
         >>> We made our way across the desolate plain.
         >>> Perhaps this was once a pilgrim's path; a way of worship.
+        
         * * El:     Do you think it's going to fall on top of us?
             Six:    It has stood for thousands of years.
             Six:    But I will charge the hopper, all the same.
