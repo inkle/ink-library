@@ -19,6 +19,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Neocab](https://www.neocabgame.com/)
 * [Wayward Strand](http://www.waywardstrand.com/)
 * [Over the Alps](https://overthealpsgame.com/)
+* [The Uber Game](https://ig.ft.com/uber-game/)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
