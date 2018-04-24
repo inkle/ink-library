@@ -21,6 +21,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Over the Alps](https://overthealpsgame.com/)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
+* [Battlecakes](http://volcanobean.com/games/battlecakes)
 * [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
 * [True Legacy](http://mcro.org/truelegacy)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
