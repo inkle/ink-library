@@ -8,3 +8,20 @@ A repository of [ink](https://www.inklestudios.com/ink/) sample stories and usef
 We're open to pull requests, so feel free to submit some ink that you've found useful. Please make sure to put a header comment at the top of your (main) file that gives an overview of your snippet, or an overview of your story.
 
 Be aware that anything contributed to this repo becomes MIT licensed.
+
+### Bonus: List of games using ink
+
+* [Heaven's Vault](http://www.inklestudios.com/heavensvault)
+* [80 days](http://www.inklestudios.com/80days)
+* [Sorcery](http://www.inklestudios.com/sorcery)
+* [Bury Me My Love](http://burymemylove.arte.tv/)
+* [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
+* [Neocab](https://www.neocabgame.com/)
+* [Wayward Strand](http://www.waywardstrand.com/)
+* [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
+* [Southern Monsters](http://www.bravemule.com/southernmonsters/)
+* [True Legacy](http://mcro.org/truelegacy)
+* [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
+* [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
+* [The Intercept](https://www.inklestudios.com/ink/theintercept/)
+* [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
