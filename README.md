@@ -27,3 +27,4 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
 * [The Intercept](https://www.inklestudios.com/ink/theintercept/)
 * [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
+* [Heaven Will Be Mine](https://pillowfight.io/games/#/heaven-will-be-mine/)
