@@ -20,6 +20,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Wayward Strand](http://www.waywardstrand.com/)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
+* [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
 * [True Legacy](http://mcro.org/truelegacy)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
