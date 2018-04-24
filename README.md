@@ -18,6 +18,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
 * [Neocab](https://www.neocabgame.com/)
 * [Wayward Strand](http://www.waywardstrand.com/)
+* [Over the Alps](https://overthealpsgame.com/)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
 * [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
