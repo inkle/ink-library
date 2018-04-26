@@ -33,3 +33,4 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
 * [Heaven Will Be Mine](https://pillowfight.io/games/#/heaven-will-be-mine/)
 * [:alarm_clock:](https://stralor.itch.io/ld41)
+* [Air New Zealand's chatbot Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot) ([source](https://github.com/rabidgremlin/Mutters))
