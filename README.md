@@ -35,6 +35,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
 * [Johnny Bonasera (ep 2+)](http://bladecoder.com/bonasera/)
 * [The Intercept](https://www.inklestudios.com/ink/theintercept/)
+* [Witchwood Academy](https://celia14.itch.io/witchwood-academy)
 * [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
 * [Heaven Will Be Mine](https://pillowfight.io/games/#/heaven-will-be-mine/)
 * [:alarm_clock:](https://stralor.itch.io/ld41)
