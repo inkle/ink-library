@@ -23,6 +23,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [The Last Night](http://oddtales.net/)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
+* [Windrush Tales](https://www.twitter.com/taleswindrush)
 * [Powerless](https://www.powerlessgame.co.uk/)
 * [Frankenstein](https://www.inklestudios.com/frankenstein/)
 * [Down Among the Dead Men](https://www.inklestudios.com/downAmongTheDeadMen/)
