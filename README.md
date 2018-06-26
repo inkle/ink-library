@@ -43,3 +43,4 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [dripping with the waters of sheol](https://grrozny.itch.io/sheol)
 * [:alarm_clock:](https://stralor.itch.io/ld41)
 * [Air New Zealand's chatbot Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot) ([source](https://github.com/rabidgremlin/Mutters))
+* [Virginia Interactive Boating Safety Course](https://www.ilearntoboat.com/virginia/)
