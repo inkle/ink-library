@@ -32,6 +32,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Debris](http://debristhegame.com/)
 * [Lucerne](http://gamejolt.com/games/lucerne/150140)
 * [Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)
+* [Cloak of Darkness (parser IF demo)](http://ink-test-parser.surge.sh/)
 * [True Legacy](http://mcro.org/truelegacy)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
