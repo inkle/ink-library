@@ -29,6 +29,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Down Among the Dead Men](https://www.inklestudios.com/downAmongTheDeadMen/)
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
 * [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
+* [Shapeshifting Detective](https://shapeshiftingdetective.com/)
 * [ink_roguelike](https://github.com/nbush/ink_roguelike)
 * [Debris](http://debristhegame.com/)
 * [Lucerne](http://gamejolt.com/games/lucerne/150140)
