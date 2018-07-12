@@ -37,6 +37,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [True Legacy](http://mcro.org/truelegacy)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
+* [Dust and Salt: The Battle for Murk](https://www.primegames.bg/en/games/view/4/dust-and-salt-the-battle-for-murk)
 * [Johnny Bonasera (ep 2+)](http://bladecoder.com/bonasera/)
 * [The Intercept](https://www.inklestudios.com/ink/theintercept/)
 * [Witchwood Academy](https://celia14.itch.io/witchwood-academy)
