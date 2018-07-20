@@ -25,6 +25,7 @@ Be aware that anything contributed to this repo becomes MIT licensed.
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
 * [Windrush Tales](https://www.twitter.com/taleswindrush)
 * [Powerless](https://www.powerlessgame.co.uk/)
+* [Total Darkness](http://totaldarkness.sciencemuseum.org.uk/)
 * [Frankenstein](https://www.inklestudios.com/frankenstein/)
 * [Down Among the Dead Men](https://www.inklestudios.com/downAmongTheDeadMen/)
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
