@@ -19,7 +19,7 @@ Please be aware that any sample content contributed to this repo becomes MIT lic
 
 The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
 
-- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) - Official integration for Unity from inkle.
+- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) ⭐️- Official integration for Unity from inkle.
 - [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A javascript port of inkle's ink scripting language.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
 - [godot-ink](https://github.com/paulloz/godot-ink) - Integration with Godot game engine.
