@@ -27,28 +27,37 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
 
-### Editor extensions 
+### Other tools
 
-#### Atom
+- [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
+
+### Editors and extensions
+
+#### General
+
+- [Inky](https://github.com/inkle/inky) - Inky is the offical ink editor developed by inkle.
+- [Ink Language Server](https://github.com/ephread/ink-language-server) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
+
+#### Unity
+
+- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) - Official integration for Unity from inkle.
+
+#### Atom extensions
 
 - [atom-language-ink](https://github.com/bladecoder/atom-language-ink) – Adds syntax highlighting and snippets to Ink files in Atom.
 - [language-ink-atom](https://github.com/isakgrozny/language-ink-atom) • [Atom Package](https://atom.io/packages/language-ink-atom) - Atom port of the SublimeText 3 language grammar for inkle's ink language.
 
-#### VS Code
+#### VS Code extensions
 
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
-- ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink)
+- ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink) - This one seems less complete than the above.
 
-### Tools
+### Frameworks and templates
 
-- [Ink Language Server](https://github.com/ephread/ink-language-server) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
-- [Quill](https://github.com/MattConrad/Quill) – Quill is a tool for playing and sandbox testing Ink stories.
-- [PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW) – A basic template for deploying a game written in ink as a stand-alone desktop app.
-
-### Engines / Frameworks
-
+- [ink-soaked](https://github.com/wickedlyethan/ink-soaked) - A template for creating hypertext fiction that acts like most Twine story formats.
 - [Mutter](https://github.com/rabidgremlin/Mutters) – A framework for building bot brains. 
 - [Paper Engine](https://github.com/inkle/ink/issues/408) – Paper Engine is designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink.
+- [PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW) – A basic template for deploying a game written in ink as a stand-alone desktop app.
 
 ## Ink games (and non-games!)
 
