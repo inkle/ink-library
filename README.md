@@ -15,32 +15,27 @@ Please be aware that any sample content contributed to this repo becomes MIT lic
 
 ## Ink Tools
 
-### Ink Engine ports and wrappers
+### Ink Engine ports, wrappers and integration
 
 The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
 
+- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) - Official integration for Unity from inkle.
 - [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A javascript port of inkle's ink scripting language.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
+- [godot-ink](https://github.com/paulloz/godot-ink) - Integration with Godot game engine.
 - [mica-ink](https://github.com/micabytes/mica-ink) – A Kotlin implementation of inkle's open source scripting language (ink) for writing interactive narrative. 
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
 
-### Other tools
-
-- [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
-
 ### Editors and extensions
 
 #### General
 
 - [Inky](https://github.com/inkle/inky) - Inky is the offical ink editor developed by inkle.
+- [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
 - [Ink Language Server](https://github.com/ephread/ink-language-server) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
-
-#### Unity
-
-- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) - Official integration for Unity from inkle.
 
 #### Atom extensions
 
