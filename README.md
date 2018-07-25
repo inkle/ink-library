@@ -1,21 +1,23 @@
 # ink Library
 
-A repository of [ink](https://www.inklestudios.com/ink/) sample stories and useful snippets, functions etc. Have a look around, see if there's anything useful for your project!
+This is a collection of [ink](https://www.inklestudios.com/ink/) resources, samples, tools as well as a running list of projects that use ink. It's an attempt to catalogue everyth**ink** in one place.
+
+We're open to pull requests, so feel free to submit any sample ink, tools that you've found useful, or a link to your own project or game. 
+
+## Ink samples 
 
 * [Snippets](https://github.com/inkle/ink-library/tree/master/Snippets) - re-useable functions, examples of techniques,  etc.
 * [Stories](https://github.com/inkle/ink-library/tree/master/Stories/) - entire playable stories written in ink.
 
-We're open to pull requests, so feel free to submit some ink that you've found useful. Please make sure to put a header comment at the top of your (main) file that gives an overview of your snippet, or an overview of your story.
+If you want to submit a sample, please make sure to put a header comment at the top of your (main) file that gives an overview of your snippet, or an overview of your story.
 
-Be aware that anything contributed to this repo becomes MIT licensed.
+Please be aware that any sample content contributed to this repo becomes MIT licensed.
 
-## List of projects involving Ink
+## Ink Tools
 
-### Runtime
+### Ink Engine ports and wrappers
 
-#### Ports
-
-The repositories marked with ⭐️ are compatible with the latest version of Ink.
+The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
 
 - [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A javascript port of inkle's ink scripting language.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
@@ -23,10 +25,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
-
-#### Wrappers
-
-- [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the JavaScript port of Inkle's Ink scripting language.
+- [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
 
 ### Editor extensions 
 
@@ -51,7 +50,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Mutter](https://github.com/rabidgremlin/Mutters) – A framework for building bot brains. 
 - [Paper Engine](https://github.com/inkle/ink/issues/408) – Paper Engine is designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink.
 
-## Bonus: List of games using ink
+## Ink games (and non-games!)
 
 * [Heaven's Vault](http://www.inklestudios.com/heavensvault)
 * [80 days](http://www.inklestudios.com/80days)
