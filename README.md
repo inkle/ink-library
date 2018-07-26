@@ -2,7 +2,11 @@
 
 This is a collection of [ink](https://www.inklestudios.com/ink/) resources, samples, tools as well as a running list of projects that use ink. It's an attempt to catalogue everyth**ink** in one place.
 
-We're open to pull requests, so feel free to submit any sample ink, tools that you've found useful, or a link to your own project or game. 
+We're open to pull requests, so feel free to submit any sample ink, tools that you've found useful, or a link to your own project or game.
+
+## Ink Patreon
+
+Inkle has a [patreon page full of tips and tricks](https://www.patreon.com/inkle), please consider donating if you make use of ink!
 
 ## Ink samples 
 
