@@ -27,6 +27,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A javascript port of inkle's ink scripting language.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
 - [godot-ink](https://github.com/paulloz/godot-ink) - Integration with Godot game engine.
+- [UnrealInk](https://github.com/DavidColson/UnrealInk) - Integration of the Ink language into Unreal 4.
 - [mica-ink](https://github.com/micabytes/mica-ink) – A Kotlin implementation of inkle's open source scripting language (ink) for writing interactive narrative. 
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
