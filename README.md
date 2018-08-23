@@ -55,7 +55,8 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 ### Frameworks and templates
 
 - [ink-soaked](https://github.com/wickedlyethan/ink-soaked) - A template for creating hypertext fiction that acts like most Twine story formats.
-- [Mutter](https://github.com/rabidgremlin/Mutters) – A framework for building bot brains. 
+- [ink-vn-engine](https://github.com/paulloz/ink-vn-engine/) - An engine for building browser-based visual novels with ink.
+- [Mutter](https://github.com/rabidgremlin/Mutters) – A framework for building bot brains.
 - [Paper Engine](https://github.com/inkle/ink/issues/408) – Paper Engine is designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink.
 - [PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW) – A basic template for deploying a game written in ink as a stand-alone desktop app.
 
