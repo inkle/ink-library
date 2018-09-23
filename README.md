@@ -52,13 +52,15 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
 - ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink) - This one seems less complete than the above.
 
-### Frameworks and templates
+### Frameworks, templates and command line utilities
 
 - [ink-soaked](https://github.com/wickedlyethan/ink-soaked) - A template for creating hypertext fiction that acts like most Twine story formats.
 - [ink-vn-engine](https://github.com/paulloz/ink-vn-engine/) - An engine for building browser-based visual novels with ink.
 - [Mutter](https://github.com/rabidgremlin/Mutters) – A framework for building bot brains.
 - [Paper Engine](https://github.com/inkle/ink/issues/408) – Paper Engine is designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink.
 - [Atrament](https://github.com/technix/atrament) – A simple interface to Inkjs, which can be used as a core engine for your game app.
+- [Blotter](https://github.com/sequitur/blotter) – A front-end engine for publishing Ink stories on the web.
+- [Gall](https://github.com/sequitur/gall) – A a simple command-line tool for assembling Ink stories with Blotter.
 - [PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW) – A basic template for deploying a game written in ink as a stand-alone desktop app.
 
 ## Ink games (and non-games!)
