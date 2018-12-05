@@ -62,6 +62,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Blotter](https://github.com/sequitur/blotter) – A front-end engine for publishing Ink stories on the web.
 - [Gall](https://github.com/sequitur/gall) – A a simple command-line tool for assembling Ink stories with Blotter.
 - [PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW) – A basic template for deploying a game written in ink as a stand-alone desktop app.
+- [inkphone](https://github.com/tskaufma/inkphone) – A sample app demonstrating how to turn a web-based Ink project into a mobile app with PhoneGap.
 
 ## Ink games (and non-games!)
 
