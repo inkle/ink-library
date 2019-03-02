@@ -106,3 +106,4 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Air New Zealand's chatbot Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot) ([source](https://github.com/rabidgremlin/Mutters))
 * [Virginia Interactive Boating Safety Course](https://www.ilearntoboat.com/virginia/)
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
+* [Pirates and Traders 2](https://play.google.com/store/apps/details?id=com.micabytes.pirates2)
