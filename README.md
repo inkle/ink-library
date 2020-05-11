@@ -109,3 +109,4 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Virginia Interactive Boating Safety Course](https://www.ilearntoboat.com/virginia/)
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
 * [Pirates and Traders 2](https://play.google.com/store/apps/details?id=com.micabytes.pirates2)
+* [Le Royaume d'Istyald](https://fantasy.bnf.fr/jouer) (French)
