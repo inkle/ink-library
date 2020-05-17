@@ -4,11 +4,11 @@ This is a collection of [ink](https://www.inklestudios.com/ink/) resources, samp
 
 We're open to pull requests, so feel free to submit any sample ink, tools that you've found useful, or a link to your own project or game.
 
-## Ink Patreon
+## ink Patreon
 
 Inkle has a [patreon page full of tips and tricks](https://www.patreon.com/inkle), please consider donating if you make use of ink!
 
-## Ink samples 
+## ink samples 
 
 * [Snippets](https://github.com/inkle/ink-library/tree/master/Snippets) - re-useable functions, examples of techniques,  etc.
 * [Stories](https://github.com/inkle/ink-library/tree/master/Stories/) - entire playable stories written in ink.
@@ -17,9 +17,9 @@ If you want to submit a sample, please make sure to put a header comment at the 
 
 Please be aware that any sample content contributed to this repo becomes MIT licensed.
 
-## Ink Tools
+## ink Tools
 
-### Ink Engine ports, wrappers and integration
+### ink Engine ports, wrappers and integration
 
 The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
 
@@ -71,47 +71,64 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [homebrew-ink](https://github.com/ephread/homebrew-ink) – Homebrew tap for inklecate (macOS only).
 - [Unofficial NuGet package](https://www.nuget.org/packages/Ink.Engine.Runtime-Unofficial/) – A community supported NuGet package of the runtime.
 
-## Ink games (and non-games!)
+## ink games (and non-games!)
+
+### By inkle
 
 * [Heaven's Vault](http://www.inklestudios.com/heavensvault)
 * [80 days](http://www.inklestudios.com/80days)
 * [Sorcery](http://www.inklestudios.com/sorcery)
-* [Bury Me My Love](http://burymemylove.arte.tv/)
+* [Frankenstein](https://www.inklestudios.com/frankenstein/)
+* [Down Among the Dead Men](https://www.inklestudios.com/downAmongTheDeadMen/)
+* [The Intercept](https://www.inklestudios.com/ink/theintercept/)
+
+### By the community
+
 * [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
 * [Neocab](https://www.neocabgame.com/)
 * [Falcon Age](https://falconage.com/)
-* [Wayward Strand](http://www.waywardstrand.com/)
 * [Over the Alps](https://overthealpsgame.com/)
-* [The Uber Game](https://ig.ft.com/uber-game/)
-* [The Last Night](http://oddtales.net/)
-* [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
-* [Windrush Tales](https://www.twitter.com/taleswindrush)
 * [Powerless](https://www.powerlessgame.co.uk/)
-* [Total Darkness](http://totaldarkness.sciencemuseum.org.uk/)
-* [Frankenstein](https://www.inklestudios.com/frankenstein/)
-* [Down Among the Dead Men](https://www.inklestudios.com/downAmongTheDeadMen/)
-* [Battlecakes](http://volcanobean.com/games/battlecakes)
 * [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
 * [Shapeshifting Detective](https://shapeshiftingdetective.com/)
-* [ink_roguelike](https://github.com/nbush/ink_roguelike)
 * [Debris](http://debristhegame.com/)
-* [Lucerne](http://gamejolt.com/games/lucerne/150140)
-* [Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)
-* [Cloak of Darkness (parser IF demo)](http://ink-test-parser.surge.sh/)
 * [True Legacy](http://mcro.org/truelegacy)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
 * [Dust and Salt: The Battle for Murk](https://www.primegames.bg/en/games/view/4/dust-and-salt-the-battle-for-murk)
 * [Johnny Bonasera (ep 2+)](http://bladecoder.com/bonasera/)
-* [The Intercept](https://www.inklestudios.com/ink/theintercept/)
-* [Witchwood Academy](https://celia14.itch.io/witchwood-academy)
 * [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
 * [Heaven Will Be Mine](https://pillowfight.io/games/#/heaven-will-be-mine/)
+* [Pirates and Traders 2](https://play.google.com/store/apps/details?id=com.micabytes.pirates2)
+
+#### Hosted by newspapers, television networks or cultural institutions
+
+* [Bury Me My Love](http://burymemylove.arte.tv/)
+* [Total Darkness](http://totaldarkness.sciencemuseum.org.uk/)
+* [The Uber Game](https://ig.ft.com/uber-game/)
+* [Le Royaume d'Istyald](https://fantasy.bnf.fr/jouer) (French)
+
+#### Game jams, competitions, experiments and demos
+
+* [Lucerne](http://gamejolt.com/games/lucerne/150140)
+* [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
+* [Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)
+* [Witchwood Academy](https://celia14.itch.io/witchwood-academy)
 * [dripping with the waters of sheol](https://grrozny.itch.io/sheol)
-* [:alarm_clock:](https://stralor.itch.io/ld41)
+* [⏰](https://stralor.itch.io/ld41)
+* [ink_roguelike](https://github.com/nbush/ink_roguelike)
+* [Cloak of Darkness (parser IF demo)](http://ink-test-parser.surge.sh/)
+
+#### Upcoming games
+
+* [Windrush Tales](https://www.twitter.com/taleswindrush)
+* [Battlecakes](http://volcanobean.com/games/battlecakes)
+* [Wayward Strand](http://www.waywardstrand.com/)
+* [The Last Night](http://oddtales.net/)
+
+#### Non Games
+
 * [Air New Zealand's chatbot Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot) ([source](https://github.com/rabidgremlin/Mutters))
 * [Virginia Interactive Boating Safety Course](https://www.ilearntoboat.com/virginia/)
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
-* [Pirates and Traders 2](https://play.google.com/store/apps/details?id=com.micabytes.pirates2)
-* [Le Royaume d'Istyald](https://fantasy.bnf.fr/jouer) (French)
