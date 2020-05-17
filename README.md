@@ -23,8 +23,8 @@ Please be aware that any sample content contributed to this repo becomes MIT lic
 
 The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
 
-- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) ⭐️- Official integration for Unity from inkle.
-- [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A javascript port of ink.
+- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) ⭐️ - Official integration for Unity from inkle.
+- [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A JavaScript port of ink.
 - [godot-ink](https://github.com/paulloz/godot-ink) ⭐️ - Official implementation integrated in Godot through mono.
 - [inkgd](https://github.com/ephread/inkgd) ⭐️ – A GDScript port of ink for Godot.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
@@ -65,6 +65,11 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW) – A basic template for deploying a game written in ink as a stand-alone desktop app.
 - [inkphone](https://github.com/tskaufma/inkphone) – A sample app demonstrating how to turn a web-based Ink project into a mobile app with PhoneGap.
 - [StoryBytes Android](https://github.com/micabytes/storybytes-android) / [StoryBytes Desktop](https://github.com/micabytes/storybytes-desktop) – Story viewer built on top of blade-ink.
+
+### Package Management
+
+- [homebrew-ink](https://github.com/ephread/homebrew-ink) – Homebrew tap for inklecate (macOS only).
+- [Unofficial NuGet package](https://www.nuget.org/packages/Ink.Engine.Runtime-Unofficial/) – A community supported NuGet package of the runtime.
 
 ## Ink games (and non-games!)
 
