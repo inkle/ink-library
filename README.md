@@ -101,6 +101,11 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
 * [Heaven Will Be Mine](https://pillowfight.io/games/#/heaven-will-be-mine/)
 * [Pirates and Traders 2](https://play.google.com/store/apps/details?id=com.micabytes.pirates2)
+* [Dance of Death: Du Lac & Fey](https://store.steampowered.com/app/976920/Dance_of_Death_Du_Lac__Fey/)
+* [Nox Caelo](https://evangelinepapanicola.itch.io/nox-caelo)
+* [Way Down](https://stapz33.itch.io/waydown)
+* [Vampire: The Masquerade - Coteries of New York](https://drawdistance.dev/vampire-the-masquerade-coteries-of-new-york/)
+* [Your daily crush](https://play.google.com/store/apps/details?id=com.InspiredMedia.YourDailyCrush)
 
 #### Hosted by newspapers, television networks or cultural institutions
 
@@ -119,6 +124,13 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [⏰](https://stralor.itch.io/ld41)
 * [ink_roguelike](https://github.com/nbush/ink_roguelike)
 * [Cloak of Darkness (parser IF demo)](http://ink-test-parser.surge.sh/)
+* [Negative Nancy](https://feed.itch.io/negative-nancy)
+* [Whole souls](https://drumclem.itch.io/whole-souls)
+* [YEETmas carol](https://tomsh.itch.io/christmas-shitpost)
+* [/THERE USED TO BE A SHOW NAMED CHEERS BUT IT DOESN'T EXIST ANYMORE/](https://int-litstudio.itch.io/there-used-to-be-a-show-named-cheers-but-it-doesnt-exist-anymore)
+* [I live next to a train track](https://greenclovers.itch.io/i-live-next-to-a-train-track)
+* [Outside](https://elliotherriman.itch.io/outside)
+* [Catfish Fish Cat](https://gamejolt.com/games/catfish/493125)
 
 #### Upcoming games
 
@@ -126,9 +138,16 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
 * [Wayward Strand](http://www.waywardstrand.com/)
 * [The Last Night](http://oddtales.net/)
+* [Signs of the Sojourner](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/)
+* [Fabled Lands](https://store.steampowered.com/app/1299620/Fabled_Lands/)
+* [Dragon Audit](https://dragonaudit.com/)
+* [Trip the Ark Fantastic](https://www.tripthearkfantastic.com/)
+* [Crowns and Pawns: Kingdom of Deceit](http://www.crownsandpawns.com/)
+* [Fête de Famille (Familly Gathering)](https://www.youtube.com/watch?v=nh553lPFFJk)
 
 #### Non Games
 
 * [Air New Zealand's chatbot Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot) ([source](https://github.com/rabidgremlin/Mutters))
 * [Virginia Interactive Boating Safety Course](https://www.ilearntoboat.com/virginia/)
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
+* [thul, a Keybase bot](https://keybase.io/thul)
