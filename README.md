@@ -42,7 +42,6 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Inky](https://github.com/inkle/inky) - Inky is the offical ink editor developed by inkle.
 - [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
 - [Ink Language Server](https://github.com/ephread/ink-language-server) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
-- [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
 
 #### Atom extensions
 
@@ -67,6 +66,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkphone](https://github.com/tskaufma/inkphone) – A sample app demonstrating how to turn a web-based Ink project into a mobile app with PhoneGap.
 - [StoryBytes Android](https://github.com/micabytes/storybytes-android) / [StoryBytes Desktop](https://github.com/micabytes/storybytes-desktop) – Story viewer built on top of blade-ink.
 - [Ink-Fungus Gateway](https://maurovanetti.itch.io/ifg) ([source code](https://github.com/maurovanetti/inkfungus-template)) – A tool to connect the Ink Unity Integration Plugin with Fungus.
+- [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
 
 ### Package Management
 
