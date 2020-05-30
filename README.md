@@ -35,6 +35,10 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
 
+### Analysis and visualisation
+
+- [graphink](https://yannick-lohse.fr/graphink/) - A graphing tool for visualising ink by the creator of inkjs
+
 ### Editors and extensions
 
 #### General
