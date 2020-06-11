@@ -52,6 +52,10 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [atom-language-ink](https://github.com/bladecoder/atom-language-ink) – Adds syntax highlighting and snippets to Ink files in Atom.
 - [language-ink-atom](https://github.com/isakgrozny/language-ink-atom) • [Atom Package](https://atom.io/packages/language-ink-atom) - Atom port of the SublimeText 3 language grammar for inkle's ink language.
 
+#### Emacs extension
+
+- [ink-mode](https://github.com/Kungsgeten/ink-mode) – syntax highlighting, automatic indentation, snippets, play testing inside Emacs.
+
 #### VS Code extensions
 
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
