@@ -29,6 +29,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkgd](https://github.com/ephread/inkgd) ⭐️ – A GDScript port of ink for Godot.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
 - [UnrealInk](https://github.com/DavidColson/UnrealInk) - Integration of the Ink language into Unreal 4.
+- [inkcpp] - Ink runtime in C++ with an additional JSON to binary converter. At time of writing, many but not all features supported.
 - [mica-ink](https://github.com/micabytes/mica-ink) – A Kotlin implementation of inkle's open source scripting language (ink) for writing interactive narrative. 
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
