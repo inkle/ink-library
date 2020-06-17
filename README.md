@@ -76,6 +76,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [StoryBytes Android](https://github.com/micabytes/storybytes-android) / [StoryBytes Desktop](https://github.com/micabytes/storybytes-desktop) – Story viewer built on top of blade-ink.
 - [Ink-Fungus Gateway](https://maurovanetti.itch.io/ifg) ([source code](https://github.com/maurovanetti/inkfungus-template)) – A tool to connect the Ink Unity Integration Plugin with Fungus.
 - [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
+- [ink-tools](https://github.com/v20100v/ink-tools) - Wrapper around command-line ink compiler that has a watch mode for automatic re-compilation.
 
 ### Package Management
 
