@@ -35,6 +35,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
+- [Narrator](https://github.com/astrochili/narrator) - An Ink parser and runtime implementation in Lua.
 
 ### Analysis and visualisation
 
