@@ -47,7 +47,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 - [Inky](https://github.com/inkle/inky) - Inky is the offical ink editor developed by inkle.
 - [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
-- [Ink Language Server](https://github.com/ephread/ink-language-server) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
+- [Ink Language Server](https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
 
 #### Atom extensions
 
