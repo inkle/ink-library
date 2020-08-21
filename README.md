@@ -129,6 +129,13 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 #### Game jams, competitions, experiments and demos
 
+| [inkJam2020] | [inkJam2019] | [inkJam2018] |
+| :----------: | :----------: | :----------: |
+
+[inkJam2020]: https://itch.io/jam/inkjam-2020
+[inkJam2019]: https://itch.io/jam/inkjam-2019
+[inkJam2018]: https://itch.io/jam/inkjam
+
 * [Lucerne](http://gamejolt.com/games/lucerne/150140)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)
