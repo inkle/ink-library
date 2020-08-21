@@ -119,6 +119,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Way Down](https://stapz33.itch.io/waydown)
 * [Vampire: The Masquerade - Coteries of New York](https://drawdistance.dev/vampire-the-masquerade-coteries-of-new-york/)
 * [Your daily crush](https://play.google.com/store/apps/details?id=com.InspiredMedia.YourDailyCrush)
+* [Linda & Joan](https://www.lindajoan.com/four-months-earlier)
 
 #### Hosted by newspapers, television networks or cultural institutions
 
@@ -144,13 +145,16 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [⏰](https://stralor.itch.io/ld41)
 * [ink_roguelike](https://github.com/nbush/ink_roguelike)
 * [Cloak of Darkness (parser IF demo)](http://ink-test-parser.surge.sh/)
-* [Negative Nancy](https://feed.itch.io/negative-nancy)
 * [Whole souls](https://drumclem.itch.io/whole-souls)
 * [YEETmas carol](https://tomsh.itch.io/christmas-shitpost)
 * [/THERE USED TO BE A SHOW NAMED CHEERS BUT IT DOESN'T EXIST ANYMORE/](https://int-litstudio.itch.io/there-used-to-be-a-show-named-cheers-but-it-doesnt-exist-anymore)
 * [I live next to a train track](https://greenclovers.itch.io/i-live-next-to-a-train-track)
 * [Outside](https://elliotherriman.itch.io/outside)
 * [Catfish Fish Cat](https://gamejolt.com/games/catfish/493125)
+* [The Tetris Killer](https://nicosaraintaris.itch.io/the-tetris-killer)
+* [Scoop (Act One)](http://tommartin.itch.io/scoop-act-one)
+* [The Bitter Drop](https://ladyisak.itch.io/the-bitter-drop-1)
+* [Lost in Myself](https://artsomepasta.itch.io/lost-in-myself)
 
 #### Upcoming games
 
@@ -164,6 +168,9 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Trip the Ark Fantastic](https://www.tripthearkfantastic.com/)
 * [Crowns and Pawns: Kingdom of Deceit](http://www.crownsandpawns.com/)
 * [Fête de Famille (Familly Gathering)](https://www.youtube.com/watch?v=nh553lPFFJk)
+* [MORSE](https://www.youtube.com/watch?v=6xaOfBSNJv0)
+* [Negative Nancy](https://store.steampowered.com/app/1276750/Negative_Nancy/)
+* [NeuroSlicers](https://store.steampowered.com/app/420040/NeuroSlicers/)
 
 #### Non Games
 
