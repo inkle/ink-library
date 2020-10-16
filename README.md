@@ -88,6 +88,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By inkle
 
+* [Pendragon](https://www.inklestudios.com/pendragon/)
 * [Heaven's Vault](http://www.inklestudios.com/heavensvault)
 * [80 days](http://www.inklestudios.com/80days)
 * [Sorcery](http://www.inklestudios.com/sorcery)
