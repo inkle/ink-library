@@ -121,6 +121,10 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Vampire: The Masquerade - Coteries of New York](https://drawdistance.dev/vampire-the-masquerade-coteries-of-new-york/)
 * [Your daily crush](https://play.google.com/store/apps/details?id=com.InspiredMedia.YourDailyCrush)
 * [Linda & Joan](https://www.lindajoan.com/four-months-earlier)
+* [Signs of the Sojourner](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/)
+* [Dragon Audit](https://dragonaudit.com/)
+
+
 
 #### Hosted by newspapers, television networks or cultural institutions
 
@@ -163,15 +167,14 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
 * [Wayward Strand](http://www.waywardstrand.com/)
 * [The Last Night](http://oddtales.net/)
-* [Signs of the Sojourner](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/)
 * [Fabled Lands](https://store.steampowered.com/app/1299620/Fabled_Lands/)
-* [Dragon Audit](https://dragonaudit.com/)
 * [Trip the Ark Fantastic](https://www.tripthearkfantastic.com/)
 * [Crowns and Pawns: Kingdom of Deceit](http://www.crownsandpawns.com/)
 * [Fête de Famille (Familly Gathering)](https://www.youtube.com/watch?v=nh553lPFFJk)
 * [MORSE](https://www.youtube.com/watch?v=6xaOfBSNJv0)
 * [Negative Nancy](https://store.steampowered.com/app/1276750/Negative_Nancy/)
 * [NeuroSlicers](https://store.steampowered.com/app/420040/NeuroSlicers/)
+* [Hauma](https://store.steampowered.com/app/1443470/Hauma/)
 
 #### Non Games
 
