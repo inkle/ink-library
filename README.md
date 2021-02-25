@@ -110,15 +110,19 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Closed Hands](http://closed-hands.com)
 * [Sea of Thieves](https://www.seaofthieves.com) - doesn't use the engine but uses a subset of the format
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
-* [Powerless](https://www.powerlessgame.co.uk/)
-* [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
 * [Shapeshifting Detective](https://shapeshiftingdetective.com/)
-* [Debris](http://debristhegame.com/)
-* [True Legacy](http://mcro.org/truelegacy)
+* [Bury Me My Love](http://burymemylove.arte.tv/)
+* [Total Darkness](http://totaldarkness.sciencemuseum.org.uk/)
+* [The Uber Game](https://ig.ft.com/uber-game/)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
 * [Dust and Salt: The Battle for Murk](https://www.primegames.bg/en/games/view/4/dust-and-salt-the-battle-for-murk)
 * [Johnny Bonasera (ep 2+)](http://bladecoder.com/bonasera/)
+* [Le Royaume d'Istyald](https://fantasy.bnf.fr/jouer) (French)
+* [Powerless](https://www.powerlessgame.co.uk/)
+* [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
+* [Debris](http://debristhegame.com/)
+* [True Legacy](http://mcro.org/truelegacy)
 * [Several games from Sand Gardeners](https://sandgardeners.itch.io/)
 * [Heaven Will Be Mine](https://pillowfight.io/games/#/heaven-will-be-mine/)
 * [Pirates and Traders 2](https://play.google.com/store/apps/details?id=com.micabytes.pirates2)
@@ -131,14 +135,6 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Signs of the Sojourner](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/)
 * [Dragon Audit](https://dragonaudit.com/)
 
-
-
-#### Hosted by newspapers, television networks or cultural institutions
-
-* [Bury Me My Love](http://burymemylove.arte.tv/)
-* [Total Darkness](http://totaldarkness.sciencemuseum.org.uk/)
-* [The Uber Game](https://ig.ft.com/uber-game/)
-* [Le Royaume d'Istyald](https://fantasy.bnf.fr/jouer) (French)
 
 #### Game jams, competitions, experiments and demos
 
