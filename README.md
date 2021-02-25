@@ -107,6 +107,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Neocab](https://www.neocabgame.com/)
 * [Falcon Age](https://falconage.com/)
 * [Over the Alps](https://overthealpsgame.com/)
+* [Closed Hands](http://closed-hands.com)
 * [Sea of Thieves](https://www.seaofthieves.com) - doesn't use the engine but uses a subset of the format
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
 * [Powerless](https://www.powerlessgame.co.uk/)
