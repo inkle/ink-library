@@ -134,7 +134,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Linda & Joan](https://www.lindajoan.com/four-months-earlier)
 * [Signs of the Sojourner](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/)
 * [Dragon Audit](https://dragonaudit.com/)
-
+* [Stay?](https://ejadelomax.itch.io/stay)
 
 #### Game jams, competitions, experiments and demos
 
@@ -185,3 +185,4 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Virginia Interactive Boating Safety Course](https://www.ilearntoboat.com/virginia/)
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
 * [thul, a Keybase bot](https://keybase.io/thul)
+* [The Sorting Hat Chats](https://ejadelomax.itch.io/sortinghatchats)
