@@ -89,6 +89,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 ### By inkle
 
 * [Pendragon](https://www.inklestudios.com/pendragon/)
+* [An upcoming as yet untitled game set in the Scottish Highlands](https://www.inklestudios.com/highland/)
 * [Heaven's Vault](http://www.inklestudios.com/heavensvault)
 * [80 days](http://www.inklestudios.com/80days)
 * [Sorcery](http://www.inklestudios.com/sorcery)
@@ -99,10 +100,14 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 ### By the community
 
 * [Sable](https://store.steampowered.com/app/757310/Sable/)
+* [Haven](https://store.steampowered.com/app/983970/Haven/)
+* [Goodbye Volcano High](https://store.steampowered.com/app/1310330/Goodbye_Volcano_High/)
 * [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
+* [Nighthawks](https://store.steampowered.com/app/1221950/Nighthawks/)
 * [Neocab](https://www.neocabgame.com/)
 * [Falcon Age](https://falconage.com/)
 * [Over the Alps](https://overthealpsgame.com/)
+* [Sea of Thieves](https://www.seaofthieves.com) - doesn't use the engine but uses a subset of the format
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
 * [Powerless](https://www.powerlessgame.co.uk/)
 * [Du Lac & Fey: Dance of Death](https://www.salixgames.com/)
