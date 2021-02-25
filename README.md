@@ -98,6 +98,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By the community
 
+* [Sable](https://store.steampowered.com/app/757310/Sable/)
 * [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
 * [Neocab](https://www.neocabgame.com/)
 * [Falcon Age](https://falconage.com/)
