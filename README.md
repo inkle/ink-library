@@ -136,6 +136,8 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Signs of the Sojourner](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/)
 * [Dragon Audit](https://dragonaudit.com/)
 * [Stay?](https://ejadelomax.itch.io/stay)
+* [Railways of Love](https://play.google.com/store/apps/details?id=com.provodnik.wagon)
+* [Dull Grey](https://provodnikgames.com/dull_grey)
 
 #### Game jams, competitions, experiments and demos
 
