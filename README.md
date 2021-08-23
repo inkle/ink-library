@@ -37,6 +37,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
 - [Narrator](https://github.com/astrochili/narrator) - An Ink parser and runtime implementation in Lua. Also works with Defold.
+- [Inklecate-Wasm](https://github.com/furkleindustries/inklecate-wasm) - WASM port for in-browser and node.js compilation (last update: early 2020)
 
 ### Analysis and visualisation
 
@@ -67,6 +68,8 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 ### Frameworks, templates and command line utilities
 
 - [ink-soaked](https://github.com/wickedlyethan/ink-soaked) - A template for creating hypertext fiction that acts like most Twine story formats.
+- [inkjs template](https://code.oreolek.ru/oreolek/inkjs-boilerplate) to work with webpack and autorebuild-on-edit
+  - [Another version](https://code.oreolek.ru/oreolek/inkjs-linux) without compatibility with Mac and Windows (without inklecate-wasm)
 - [ink-vn-engine](https://github.com/paulloz/ink-vn-engine/) - An engine for building browser-based visual novels with ink.
 - [Mutter](https://github.com/rabidgremlin/Mutters) – A framework for building bot brains.
 - [Paper Engine](https://github.com/inkle/ink/issues/408) – Paper Engine is designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink.
