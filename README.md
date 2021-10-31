@@ -51,6 +51,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Borogove](https://borogove.app/) - Tool to write, play and share interactive fiction entirely online, with support for ink.
 - [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
 - [Ink Language Server](https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
+- [Yarn Editor](https://yarnspinnertool.github.io/YarnEditor/) - A Pwa Desktop/Mobile app that can author, play and compile ink files via the inklecate wasm port and inkjs.
 
 #### Atom extensions
 
