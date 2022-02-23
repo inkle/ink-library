@@ -94,8 +94,9 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By inkle
 
+* [A Highland Song](https://www.inklestudios.com/a-highland-song/)
+* [Overboard!](https://www.inklestudios.com/overboard/)
 * [Pendragon](https://www.inklestudios.com/pendragon/)
-* [An upcoming as yet untitled game set in the Scottish Highlands](https://www.inklestudios.com/highland/)
 * [Heaven's Vault](http://www.inklestudios.com/heavensvault)
 * [80 days](http://www.inklestudios.com/80days)
 * [Sorcery](http://www.inklestudios.com/sorcery)
