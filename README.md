@@ -188,6 +188,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Negative Nancy](https://store.steampowered.com/app/1276750/Negative_Nancy/)
 * [NeuroSlicers](https://store.steampowered.com/app/420040/NeuroSlicers/)
 * [Hauma](https://store.steampowered.com/app/1443470/Hauma/)
+* [Crowns and Pawns: Kingdom of Deceit](https://store.steampowered.com/app/1125910/Crowns_and_Pawns_Kingdom_of_Deceit/)
 
 #### Non Games
 
