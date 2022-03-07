@@ -38,6 +38,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
 - [Narrator](https://github.com/astrochili/narrator) - An Ink parser and runtime implementation in Lua. Also works with Defold.
 - [Inklecate-Wasm](https://github.com/furkleindustries/inklecate-wasm) - WASM port for in-browser and node.js compilation (last update: early 2020)
+- [StreamINK](https://rothiotome.itch.io/streamink) - play conversational adventures in your Twitch Streams
 
 ### Analysis and visualisation
 
