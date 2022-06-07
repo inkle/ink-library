@@ -147,6 +147,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Railways of Love](https://play.google.com/store/apps/details?id=com.provodnik.wagon)
 * [Dull Grey](https://provodnikgames.com/dull_grey)
 * [Dialogue Box: The Road Less Traveled](https://store.steampowered.com/app/1559930/Dialogue_Box_The_Road_Less_Traveled/)
+* [Cien Años Después](https://princessinternetcafe.itch.io/cien-anos-despues) (Spanish) - made using binksi
 
 #### Game jams, competitions, experiments and demos
 
