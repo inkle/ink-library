@@ -24,7 +24,7 @@ Please be aware that any sample content contributed to this repo becomes MIT lic
 The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
 
 - [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) ⭐️ - Official integration for Unity from inkle.
-- [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A JavaScript port of ink.
+- [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A JavaScript port of ink (runtime and compiler).
 - [godot-ink](https://github.com/paulloz/godot-ink) ⭐️ - Official implementation integrated in Godot through mono.
 - [inkgd](https://github.com/ephread/inkgd) ⭐️ – A GDScript port of ink for Godot.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
@@ -85,6 +85,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Ink-Fungus Gateway](https://maurovanetti.itch.io/ifg) ([source code](https://github.com/maurovanetti/inkfungus-template)) – A tool to connect the Ink Unity Integration Plugin with Fungus.
 - [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
 - [ink-tools](https://github.com/v20100v/ink-tools) - Wrapper around command-line ink compiler that has a watch mode for automatic re-compilation.
+- [binksi](https://smwhr.github.io/binksi) - A bitsi-like tool for making small lo-fi graphical adventure games where a character explores a world and interacts with its inhabitants.
 
 ### Package Management
 
