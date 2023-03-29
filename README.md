@@ -108,6 +108,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By the community
 
+* [The Wreck](https://store.steampowered.com/app/1687960/The_Wreck/)
 * [Sky Caravan](https://store.steampowered.com/app/1792270/Sky_Caravan/)
 * [Sable](https://store.steampowered.com/app/757310/Sable/)
 * [Haven](https://store.steampowered.com/app/983970/Haven/)
