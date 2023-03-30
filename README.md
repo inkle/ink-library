@@ -114,7 +114,6 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Haven](https://store.steampowered.com/app/983970/Haven/)
 * [Goodbye Volcano High](https://store.steampowered.com/app/1310330/Goodbye_Volcano_High/)
 * [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
-* [Nighthawks](https://store.steampowered.com/app/1221950/Nighthawks/)
 * [Neocab](https://www.neocabgame.com/)
 * [Falcon Age](https://falconage.com/)
 * [Over the Alps](https://overthealpsgame.com/)
@@ -128,6 +127,8 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
 * [Dust and Salt](https://www.primegames.bg/en/dust-and-salt)
 * [Dust and Salt: The Battle for Murk](https://www.primegames.bg/en/games/view/4/dust-and-salt-the-battle-for-murk)
+* [Fabled Lands](https://store.steampowered.com/app/1299620/Fabled_Lands/)
+* [Wayward Strand](http://www.waywardstrand.com/)
 * [Johnny Bonasera (ep 2+)](http://bladecoder.com/bonasera/)
 * [Le Royaume d'Istyald](https://fantasy.bnf.fr/jouer) (French)
 * [Powerless](https://www.powerlessgame.co.uk/)
@@ -181,11 +182,10 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 #### Upcoming games
 
+* [Nighthawks](https://store.steampowered.com/app/1221950/Nighthawks/)
 * [Windrush Tales](https://www.twitter.com/taleswindrush)
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
-* [Wayward Strand](http://www.waywardstrand.com/)
 * [The Last Night](http://oddtales.net/)
-* [Fabled Lands](https://store.steampowered.com/app/1299620/Fabled_Lands/)
 * [Trip the Ark Fantastic](https://www.tripthearkfantastic.com/)
 * [Crowns and Pawns: Kingdom of Deceit](http://www.crownsandpawns.com/)
 * [Fête de Famille (Familly Gathering)](https://www.youtube.com/watch?v=nh553lPFFJk)
