@@ -182,6 +182,8 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 #### Upcoming games
 
+* [Thirsty Suitors](https://store.steampowered.com/app/1617220/Thirsty_Suitors/)
+* [Goodbye Volcano High](https://store.steampowered.com/app/1310330/Goodbye_Volcano_High/)
 * [Nighthawks](https://store.steampowered.com/app/1221950/Nighthawks/)
 * [Windrush Tales](https://www.twitter.com/taleswindrush)
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
