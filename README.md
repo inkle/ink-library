@@ -116,7 +116,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)
 * [Neocab](https://www.neocabgame.com/)
 * [Falcon Age](https://falconage.com/)
-* [Over the Alps](https://overthealpsgame.com/)
+* [Over the Alps](https://store.steampowered.com/app/1227400/Over_the_Alps/)
 * [Closed Hands](http://closed-hands.com)
 * [Sea of Thieves](https://www.seaofthieves.com) - doesn't use the engine but uses a subset of the format
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
