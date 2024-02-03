@@ -179,6 +179,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Scoop (Act One)](http://tommartin.itch.io/scoop-act-one)
 * [The Bitter Drop](https://ladyisak.itch.io/the-bitter-drop-1)
 * [Lost in Myself](https://artsomepasta.itch.io/lost-in-myself)
+* [It Is An Innkeeper](https://ifcoltransg.itch.io/innkeeper)
 
 #### Upcoming games
 
