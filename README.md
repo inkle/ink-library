@@ -156,6 +156,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Dull Grey](https://provodnikgames.com/dull_grey)
 * [Dialogue Box: The Road Less Traveled](https://store.steampowered.com/app/1559930/Dialogue_Box_The_Road_Less_Traveled/)
 * [Cien Años Después](https://princessinternetcafe.itch.io/cien-anos-despues) (Spanish) - made using binksi
+* [Kraken Whispers](https://www.aricmcbay.org/kw/) - a browser-based text adventure
 
 #### Game jams, competitions, experiments and demos
 
