@@ -67,6 +67,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 #### VS Code extensions
 
+- [inkle-vscode](https://github.com/RenderBr/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rageave.inkle-vscode) – Up-to date and maintained Ink scripting language support for Visual Studio Code
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
 - ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink) - This one seems less complete than the above.
 
