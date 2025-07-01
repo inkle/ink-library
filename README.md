@@ -35,6 +35,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkcpp](https://github.com/JBenda/inkcpp) - Ink runtime in C++ with an additional JSON to binary converter. At time of writing, many but not all features supported.
 - [mica-ink](https://github.com/micabytes/mica-ink) – A Kotlin implementation of inkle's open source scripting language (ink) for writing interactive narrative. 
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
+- [bladeink (Rust)](https://github.com/bladecoder/blade-ink-rs) - A port of ink in Rust, from the same people that brought you [the Java port](https://github.com/bladecoder/blade-ink).
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
