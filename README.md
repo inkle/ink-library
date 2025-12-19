@@ -90,6 +90,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
 - [ink-tools](https://github.com/v20100v/ink-tools) - Wrapper around command-line ink compiler that has a watch mode for automatic re-compilation.
 - [binksi](https://smwhr.github.io/binksi) - A bitsi-like tool for making small lo-fi graphical adventure games where a character explores a world and interacts with its inhabitants.
+- [Ink Story Template](https://remyvim.github.io/ink-if-story-template/) ([source](https://github.com/RemyVim/ink-if-story-template)) – A web template for publishing Ink stories with built-in saves, accessibility, and media support. No coding required.
 
 ### Package Management
 
