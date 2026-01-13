@@ -118,7 +118,6 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By the community
 
-
 * [Thirsty Suitors](https://store.steampowered.com/app/1617220/Thirsty_Suitors/)
 * [The Wreck](https://store.steampowered.com/app/1687960/The_Wreck/)
 * [Sky Caravan](https://store.steampowered.com/app/1792270/Sky_Caravan/)
@@ -164,6 +163,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Dull Grey](https://provodnikgames.com/dull_grey)
 * [Dialogue Box: The Road Less Traveled](https://store.steampowered.com/app/1559930/Dialogue_Box_The_Road_Less_Traveled/)
 * [Cien Años Después](https://princessinternetcafe.itch.io/cien-anos-despues) (Spanish) - made using binksi
+* [Automated Border City](https://maurovanetti.itch.io/abc) (English/Italian)
 * [Experimenting With Knives](https://worldenddisk.itch.io/experimenting-with-knives)
 
 #### Game jams, competitions, experiments and demos
