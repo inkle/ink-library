@@ -21,18 +21,21 @@ Please be aware that any sample content contributed to this repo becomes MIT lic
 
 ### ink Engine ports, wrappers and integration
 
-The repositories marked with ⭐️ are compatible with the latest version of Ink. **Warning**: the others may be incomplete or works in progress.
+The repositories marked with ⭐️ are compatible with the latest version of Ink. Those marked with ⚙️ includes a native compiler. **Warning**: the others may be incomplete or works in progress.
 
-- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) ⭐️ - Official integration for Unity from inkle.
-- [inkjs](https://github.com/y-lohse/inkjs) ⭐️ – A JavaScript port of ink (runtime and compiler).
+- [Ink-Unity-integration](https://github.com/inkle/ink-unity-integration) ⭐️⚙️ - Official integration for Unity from inkle.
+- [inkjs](https://github.com/y-lohse/inkjs) ⭐️⚙️ – A JavaScript port of ink (runtime and compiler).
 - [godot-ink](https://github.com/paulloz/godot-ink) ⭐️ - Official implementation integrated in Godot through mono.
 - [inkgd](https://github.com/ephread/inkgd) ⭐️ – A GDScript port of ink for Godot.
 - [blade-ink](https://github.com/bladecoder/blade-ink) ⭐️ – Inkle Ink runtime implementation in Java.
 - [UnrealInk](https://github.com/DavidColson/UnrealInk) ⭐️ - Integration of the Ink language into Unreal 4.
-- [GMInk](https://marketplace.yoyogames.com/assets/5852/gmink) ⭐️ – Ink integration for Gamemaker Studio. 
-- [inkcpp](https://github.com/brwarner/inkcpp) - Ink runtime in C++ with an additional JSON to binary converter. At time of writing, many but not all features supported.
+- [GMInk](https://marketplace.yoyogames.com/assets/5852/gmink) ⭐️ – Ink integration for Gamemaker Studio.
+- [Tinta](https://github.com/smwhr/tinta) ⭐️ - Ink integration for Lua (including Love2d, Playdate and Picotron)
+- [inkpot](https://github.com/The-Chinese-Room/Inkpot) ⭐️  - A container for Ink within the Unreal Engine (v5.4 or later)
+- [inkcpp](https://github.com/JBenda/inkcpp) - Ink runtime in C++ with an additional JSON to binary converter. At time of writing, many but not all features supported.
 - [mica-ink](https://github.com/micabytes/mica-ink) – A Kotlin implementation of inkle's open source scripting language (ink) for writing interactive narrative. 
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
+- [bladeink (Rust)](https://github.com/bladecoder/blade-ink-rs) - A port of ink in Rust, from the same people that brought you [the Java port](https://github.com/bladecoder/blade-ink).
 - [inkrs](https://github.com/facelesspanda/inkrs) – A port/rewrite of inkle/ink in rust.
 - [pink](https://github.com/premek/pink) – An attempt to implement a subset of ink in lpeg.
 - [ink-iOS](https://github.com/russellquinn/ink-iOS) – An iOS wrapper for the [JavaScript port](https://github.com/y-lohse/inkjs) (see above) of Inkle's Ink scripting language.
@@ -42,7 +45,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### Analysis and visualisation
 
-- [graphink](https://yannick-lohse.fr/graphink/) - A graphing tool for visualising ink by the creator of inkjs
+- [graphink](https://yannick-lohse.fr/graphink/) - A graphing tool for visualising ink by the creator of inkjs (deprecated)
 
 ### Editors and extensions
 
@@ -53,6 +56,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
 - [Ink Language Server](https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
 - [Yarn Editor](https://yarnspinnertool.github.io/YarnEditor/) - A Pwa Desktop/Mobile 📱💻 app that can author, play and compile ink files via the inklecate wasm port and inkjs.
+- [VisualInk](https://visualink.mavnn.eu/) - A website for creating and sharing visual novels with ink, focussed on first time writers and quick prototyping.
 
 #### Atom extensions
 
@@ -65,8 +69,13 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 #### VS Code extensions
 
+- [inkle-vscode](https://github.com/RenderBr/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rageave.inkle-vscode) – Up-to date and maintained Ink scripting language support for Visual Studio Code
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
 - ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink) - This one seems less complete than the above.
+
+#### CodeMirror extensions
+
+- [CodeMirror grammar for ink](https://github.com/mavnn/codemirror-lang-ink) - Syntax highlighting and code folding for the [CodeMirror](https://codemirror.net/) javascript editor (also the editor used in the Obsidian knowledge base application)
 
 ### Frameworks, templates and command line utilities
 
@@ -86,6 +95,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
 - [ink-tools](https://github.com/v20100v/ink-tools) - Wrapper around command-line ink compiler that has a watch mode for automatic re-compilation.
 - [binksi](https://smwhr.github.io/binksi) - A bitsi-like tool for making small lo-fi graphical adventure games where a character explores a world and interacts with its inhabitants.
+- [Ink Story Template](https://remyvim.github.io/ink-if-story-template/) ([source](https://github.com/RemyVim/ink-if-story-template)) – A web template for publishing Ink stories with built-in saves, accessibility, and media support. No coding required.
 
 ### Package Management
 
@@ -108,6 +118,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By the community
 
+* [Thirsty Suitors](https://store.steampowered.com/app/1617220/Thirsty_Suitors/)
 * [The Wreck](https://store.steampowered.com/app/1687960/The_Wreck/)
 * [Sky Caravan](https://store.steampowered.com/app/1792270/Sky_Caravan/)
 * [Sable](https://store.steampowered.com/app/757310/Sable/)
@@ -122,6 +133,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Southern Monsters](http://www.bravemule.com/southernmonsters/)
 * [Shapeshifting Detective](https://shapeshiftingdetective.com/)
 * [Bury Me My Love](http://burymemylove.arte.tv/)
+* [Fête de Famille (Familly Gathering)](https://www.arte.tv/digitalproductions/fr/fete-de-famille-1/)
 * [Total Darkness](http://totaldarkness.sciencemuseum.org.uk/)
 * [The Uber Game](https://ig.ft.com/uber-game/)
 * [A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)
@@ -152,16 +164,18 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Dialogue Box: The Road Less Traveled](https://store.steampowered.com/app/1559930/Dialogue_Box_The_Road_Less_Traveled/)
 * [Cien Años Después](https://princessinternetcafe.itch.io/cien-anos-despues) (Spanish) - made using binksi
 * [Kraken Whispers](https://www.aricmcbay.org/kw/) - a browser-based text adventure
+* [Automated Border City](https://maurovanetti.itch.io/abc) (English/Italian)
+* [Experimenting With Knives](https://worldenddisk.itch.io/experimenting-with-knives)
 
 #### Game jams, competitions, experiments and demos
 
-| [inkJam2020] | [inkJam2019] | [inkJam2018] |
-| :----------: | :----------: | :----------: |
-
-[inkJam2020]: https://itch.io/jam/inkjam-2020
-[inkJam2019]: https://itch.io/jam/inkjam-2019
-[inkJam2018]: https://itch.io/jam/inkjam
-
+* [inkJam2024](https://itch.io/jam/inkjam-2024)
+* [inkJam2023](https://itch.io/jam/inkjam-2023)
+* [inkJam2022](https://itch.io/jam/inkjam-2022)
+* [inkJam2021](https://itch.io/jam/inkjam-2021)
+* [inkJam2020](https://itch.io/jam/inkjam-2020)
+* [inkJam2019](https://itch.io/jam/inkjam-2019)
+* [inkJam2018](https://itch.io/jam/inkjam)
 * [Lucerne](http://gamejolt.com/games/lucerne/150140)
 * [The Rats in the Bulkhead](https://brunodias.itch.io/rats)
 * [Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)
@@ -180,18 +194,16 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Scoop (Act One)](http://tommartin.itch.io/scoop-act-one)
 * [The Bitter Drop](https://ladyisak.itch.io/the-bitter-drop-1)
 * [Lost in Myself](https://artsomepasta.itch.io/lost-in-myself)
+* [Crime Scene (binksi demo)](https://smwhr.itch.io/crime-scene)
 
 #### Upcoming games
 
-* [Thirsty Suitors](https://store.steampowered.com/app/1617220/Thirsty_Suitors/)
-* [Goodbye Volcano High](https://store.steampowered.com/app/1310330/Goodbye_Volcano_High/)
 * [Nighthawks](https://store.steampowered.com/app/1221950/Nighthawks/)
 * [Windrush Tales](https://www.twitter.com/taleswindrush)
 * [Battlecakes](http://volcanobean.com/games/battlecakes)
 * [The Last Night](http://oddtales.net/)
 * [Trip the Ark Fantastic](https://www.tripthearkfantastic.com/)
 * [Crowns and Pawns: Kingdom of Deceit](http://www.crownsandpawns.com/)
-* [Fête de Famille (Familly Gathering)](https://www.youtube.com/watch?v=nh553lPFFJk)
 * [MORSE](https://www.youtube.com/watch?v=6xaOfBSNJv0)
 * [Negative Nancy](https://store.steampowered.com/app/1276750/Negative_Nancy/)
 * [NeuroSlicers](https://store.steampowered.com/app/420040/NeuroSlicers/)
@@ -204,3 +216,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
 * [thul, a Keybase bot](https://keybase.io/thul)
 * [The Sorting Hat Chats](https://ejadelomax.itch.io/sortinghatchats)
+
+#### Ink courses
+
+* [Coding Games with a Story](https://www.thinkersmeetup.com/scholars/michael-newton) - Online 5 week courses on writing visual novels with ink for 9-18 year olds.
