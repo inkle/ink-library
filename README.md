@@ -56,6 +56,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
 - [Ink Language Server](https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
 - [Yarn Editor](https://yarnspinnertool.github.io/YarnEditor/) - A Pwa Desktop/Mobile 📱💻 app that can author, play and compile ink files via the inklecate wasm port and inkjs.
+- [VisualInk](https://visualink.mavnn.eu/) - A website for creating and sharing visual novels with ink, focussed on first time writers and quick prototyping.
 
 #### Atom extensions
 
@@ -71,6 +72,10 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkle-vscode](https://github.com/RenderBr/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rageave.inkle-vscode) – Up-to date and maintained Ink scripting language support for Visual Studio Code
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
 - ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink) - This one seems less complete than the above.
+
+#### CodeMirror extensions
+
+- [CodeMirror grammar for ink](https://github.com/mavnn/codemirror-lang-ink) - Syntax highlighting and code folding for the [CodeMirror](https://codemirror.net/) javascript editor (also the editor used in the Obsidian knowledge base application)
 
 ### Frameworks, templates and command line utilities
 
@@ -208,3 +213,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
 * [thul, a Keybase bot](https://keybase.io/thul)
 * [The Sorting Hat Chats](https://ejadelomax.itch.io/sortinghatchats)
+
+#### Ink courses
+
+* [Coding Games with a Story](https://www.thinkersmeetup.com/scholars/michael-newton) - Online 5 week courses on writing visual novels with ink for 9-18 year olds.
