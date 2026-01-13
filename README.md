@@ -56,6 +56,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [Quill](https://github.com/MattConrad/Quill) – Quill is an online tool for playing and sandbox testing Ink stories.
 - [Ink Language Server](https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol) – A language server for inkle's Ink, that adheres to the Language Server Protocol (LSP).
 - [Yarn Editor](https://yarnspinnertool.github.io/YarnEditor/) - A Pwa Desktop/Mobile 📱💻 app that can author, play and compile ink files via the inklecate wasm port and inkjs.
+- [VisualInk](https://visualink.mavnn.eu/) - A website for creating and sharing visual novels with ink, focussed on first time writers and quick prototyping.
 
 #### Atom extensions
 
@@ -71,6 +72,10 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [inkle-vscode](https://github.com/RenderBr/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rageave.inkle-vscode) – Up-to date and maintained Ink scripting language support for Visual Studio Code
 - [ink](https://github.com/sequitur/ink-vscode) • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink) – Inkle's Ink scripting language support for Visual Studio Code
 - ink • [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink) - This one seems less complete than the above.
+
+#### CodeMirror extensions
+
+- [CodeMirror grammar for ink](https://github.com/mavnn/codemirror-lang-ink) - Syntax highlighting and code folding for the [CodeMirror](https://codemirror.net/) javascript editor (also the editor used in the Obsidian knowledge base application)
 
 ### Frameworks, templates and command line utilities
 
@@ -90,6 +95,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [ink-proof](https://chromy.github.io/ink-proof/) ([source code](https://github.com/chromy/ink-proof)) – Conformance testing for Ink compilers and runtimes.
 - [ink-tools](https://github.com/v20100v/ink-tools) - Wrapper around command-line ink compiler that has a watch mode for automatic re-compilation.
 - [binksi](https://smwhr.github.io/binksi) - A bitsi-like tool for making small lo-fi graphical adventure games where a character explores a world and interacts with its inhabitants.
+- [Ink Story Template](https://remyvim.github.io/ink-if-story-template/) ([source](https://github.com/RemyVim/ink-if-story-template)) – A web template for publishing Ink stories with built-in saves, accessibility, and media support. No coding required.
 
 ### Package Management
 
@@ -158,6 +164,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Dialogue Box: The Road Less Traveled](https://store.steampowered.com/app/1559930/Dialogue_Box_The_Road_Less_Traveled/)
 * [Cien Años Después](https://princessinternetcafe.itch.io/cien-anos-despues) (Spanish) - made using binksi
 * [Automated Border City](https://maurovanetti.itch.io/abc) (English/Italian)
+* [Experimenting With Knives](https://worldenddisk.itch.io/experimenting-with-knives)
 
 #### Game jams, competitions, experiments and demos
 
@@ -208,3 +215,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 * [Beacon Virtua](http://museum.wa.gov.au/BeaconVirtua)
 * [thul, a Keybase bot](https://keybase.io/thul)
 * [The Sorting Hat Chats](https://ejadelomax.itch.io/sortinghatchats)
+
+#### Ink courses
+
+* [Coding Games with a Story](https://www.thinkersmeetup.com/scholars/michael-newton) - Online 5 week courses on writing visual novels with ink for 9-18 year olds.
