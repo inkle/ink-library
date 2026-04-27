@@ -106,8 +106,9 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 
 ### By inkle
 
+* [TR-49](https://www.inklestudios.com/tr-49)
 * [A Highland Song](https://www.inklestudios.com/a-highland-song/)
-* [Overboard!](https://www.inklestudios.com/overboard/)
+* [Overboard!](https://www.inklestudios.com/overboard/) and [Expelled!](https://www.inklestudios.com/expelled/)
 * [Pendragon](https://www.inklestudios.com/pendragon/)
 * [Heaven's Vault](http://www.inklestudios.com/heavensvault)
 * [80 days](http://www.inklestudios.com/80days)
