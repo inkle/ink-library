@@ -32,6 +32,7 @@ The repositories marked with ⭐️ are compatible with the latest version of In
 - [GMInk](https://marketplace.yoyogames.com/assets/5852/gmink) ⭐️ – Ink integration for Gamemaker Studio.
 - [Tinta](https://github.com/smwhr/tinta) ⭐️ - Ink integration for Lua (including Love2d, Playdate and Picotron)
 - [inkpot](https://github.com/The-Chinese-Room/Inkpot) ⭐️  - A container for Ink within the Unreal Engine (v5.4 or later)
+- [nib](https://github.com/JasonWarrenUK/nib) ⭐️ - an unopinionated Svelte 5/SvelteKit 2 integration for use with inkjs
 - [inkcpp](https://github.com/JBenda/inkcpp) - Ink runtime in C++ with an additional JSON to binary converter. At time of writing, many but not all features supported.
 - [mica-ink](https://github.com/micabytes/mica-ink) – A Kotlin implementation of inkle's open source scripting language (ink) for writing interactive narrative. 
 - [inkhaxe](https://github.com/Glidias/inkhaxe) – Ink port from C# to Haxe.
